@@ -1,0 +1,8 @@
+
+ * --> İlk elemandan son elemana kadar her elemanı kendinden sonra
+       gelen , kendinden küçük elemanların en küçüğü ile yer değiştiriyoruz.
+
+       { 1, 2, 3, 10, 6, 4 ,7 }  --> { 1, 2, 3, 4, 6, 10, 7 } --> { 1, 2, 3, 4, 6, 7 ,10 }
+
+       * --> TIME COMPLEXITY = O(n2)  ( en iyi veya en kotu durumda nile O(n2) )
+       * --> MEMORY USAGE = 1 variable

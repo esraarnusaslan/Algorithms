@@ -1,0 +1,6 @@
+ { 2, 4, 5, 3, 1, 6 } -->  { 2, 4, 5, 5 ,1 ,6 } --> { 2, 4, 4, 5, 1, 6} ---> { 2, 3, 4, 5, 1, 6}
+
+
+ * TIME COMPLEXITY --> O(n2)  ( en iyi durumda O(n) , en kotu durumda O(n2) )
+
+ * MEMORY USAGE --> 1 variable
